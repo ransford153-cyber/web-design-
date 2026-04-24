@@ -1,3 +1,4 @@
+<img width="1366" height="768" alt="sc5" src="https://github.com/user-attachments/assets/77e0115a-1171-41b6-be1e-9fe845a8f2da" />
 #my personal web about me -Ransford kamara
 ##Techonologies
 - HTML
